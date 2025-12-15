@@ -56,7 +56,7 @@ Performances et optimisations
 Lancer le projet en local
 ```bash
 
-git clone https://github.com/Johan11683/Johan_MONARD_Devsite.git
+git clone https://github.com/solzarr/Portfolio-developer_MERN.git
 cd FRONT
 npm install
 npm run dev
