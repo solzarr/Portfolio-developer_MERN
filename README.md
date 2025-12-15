@@ -1,28 +1,44 @@
-# Mon Site CV – Portfolio interactif de développeur web
-Projet personnel de fin de formation – OpenClassrooms
-Objectif : Créer un site vitrine interactif pour présenter mon parcours, mes projets, mes compétences et ma personnalité de manière originale et professionnelle.
+# My CV Website – Interactive Web Developer Portfolio
+Personal end-of-training project – OpenClassrooms
+Objective: Create an interactive showcase website to present my background, projects, skills, and personality in an original and professional way.
 
-# Contexte
-Dans ce projet, j’ai conçu un site CV complet avec Next.js (React framework) et une partie back-end intégrée pour l’envoi sécurisé d’e-mails.
+# Context
 
-Le site vise à valoriser mon profil de développeur full-stack débutant, à travers :
-- Une interface moderne et animée
-- Une section originale "Tale of the Tape" inspirée de la boxe
-- Un carrousel de compétences
-- Une galerie de projets avec descriptions
-- Un formulaire de contact sécurisé et fonctionnel
-- Une performance et accessibilité optimisées
+For this project, I designed a complete CV website using Next.js (React framework) with an integrated back-end for secure email sending.
 
-Technologies utilisées
-- Next.js (React + API routes)
-- TypeScript
-- Sass (SCSS)
-- Framer Motion (animations)
-- Keen Slider (carrousel)
-- i18next (traduction multilingue)
-- Nodemailer (envoi d’e-mails côté back-end)
-- Helmet, cors, rate-limiter-flexible (sécurité)
-- Vercel + Render (déploiement)
+The website showcases my profile as a junior full-stack developer through:
+
+A modern, animated interface
+
+An original “Tale of the Tape” section inspired by boxing
+
+A skills carousel
+
+A project gallery with descriptions
+
+A functional, secure contact form
+
+Optimized performance and accessibility
+
+Technologies Used
+
+Next.js (React + API routes)
+
+TypeScript
+
+Sass (SCSS)
+
+Framer Motion (animations)
+
+Keen Slider (carousel)
+
+i18next (multi-language support)
+
+Nodemailer (back-end email sending)
+
+Helmet, CORS, rate-limiter-flexible (security)
+
+Vercel + Render (deployment)
 
 
 Fonctionnalités principales
